@@ -1,6 +1,6 @@
 # TweeVoorTwaalf
 
-I was watching a twee voor twaalf episode and thought it would be nice
+I was watching a 2 voor 12 (twee voor twaalf) episode and thought it would be nice
 if I had a word helper, so this is it.
 
 Haven't checked if all words exist and probably the list of words isn't exhaustive.
