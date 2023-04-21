@@ -17,6 +17,8 @@ For example: alspveld,v..s.pe.....
 The known letters are `alspveld` and the positions are `v..s.pe.....`.
 This combination will give you the word "valsspeelden" 😉
 
+Just run `python main.py` and you should be ready to ~~cheat~~ play.
+
 ## Is it any good?
 
 [Yes.](http://news.ycombinator.com/item?id=3067434)
